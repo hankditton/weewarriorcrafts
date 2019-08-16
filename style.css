@@ -36,6 +36,10 @@ body {
     background: #c2dde6;
 }
 
+.link-holder {
+    margin-bottom: 30px;
+}
+
 a {
     color: black;
     text-decoration: inherit;
